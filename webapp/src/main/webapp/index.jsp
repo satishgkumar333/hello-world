@@ -1,2 +1,2 @@
-<h1> Hello, file deployed by ansible scm </h1>
+<h1> Hello, Deployed to both ansible and docker </h1>
 
